@@ -1,0 +1,16 @@
+{
+  "name":"toast(content,time1,time2)",
+  "des":"//提示框的toast显示,time1:时间间隔，time2:显示时间。",
+  "attention":"",
+  "comp":"",
+  "scene":"",
+  "returnVal":{
+    "isNull":false,
+    "des":""
+
+  },
+  "code":"",
+  "param":{
+    "des":""
+  }
+}

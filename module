@@ -1,0 +1,5 @@
+[
+  {"name":"登录注册","func":["a","b"],"des":"","attention":"","comp":"","scene":""},
+  {"name":"注册","func":["a","b"],"des":"","attention":"","comp":"","scene":""},
+  {"name":"课程终端页","func":["a","b"],"des":"","attention":"","comp":"","scene":""}
+]
